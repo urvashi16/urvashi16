@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **urvashiindu09@gmail.com**
 
-- ⚡ Fun fact **I don't speak much but once I get comfortable with you I speak a lot :p**
+- ⚡ Fun fact **-I don't speak much but once I get comfortable with you I speak a lot :p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
