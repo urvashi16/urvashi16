@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urvashi16" alt="urvashi16" /></a> </p>
 
+- 🌱 I’m currently learning **Web development**
+
 - 📫 How to reach me **- urvashiindu09@gmail.com**
 
 - ⚡ Fun fact **- I don't speak much, but once I get comfortable with you, I speak a lot  :P**
