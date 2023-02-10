@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, Urvashi here </h1>
+<h1 align="center"> Hey there <img src="./assets/wave.gif" width="30px"> , I'm  Urvashi Indu</h1> 
 <h3 align="center">A passionate learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashi16&label=Profile%20views&color=0e75b6&style=flat" alt="urvashi16" /> </p>
