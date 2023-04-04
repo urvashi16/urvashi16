@@ -48,7 +48,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urvashi16&" alt="urvashi16" /></p>
 
 <!-- Cool Giphy Start here -->
-<img align="right" width="120px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
+<img align="right" width="100px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
 <!-- End here -->
 
 <h1 align="center">
