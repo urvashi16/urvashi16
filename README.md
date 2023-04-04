@@ -16,8 +16,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urvashi16" alt="urvashi16" /></a> </p>
 <!-- Cool Giphy Start here -->
-<img align="right" width="120px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
+<img align="right" width="90px" src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"> 
 <!-- End here -->
+
 
 
 - 🌱 I’m currently learning **Front-end development**
@@ -47,7 +48,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urvashi16&" alt="urvashi16" /></p>
 
 <!-- Cool Giphy Start here -->
-<img align="right" width="90px" src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"> 
+<img align="right" width="120px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
 <!-- End here -->
 
 <h1 align="center">
