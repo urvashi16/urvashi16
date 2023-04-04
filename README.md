@@ -1,4 +1,5 @@
 <h1 align="center"> Hello there  <img src="./assets/wave.gif" width="30px"> , I am </h1> 
+
 <!-- Cool Giphy Start here -->
 <img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
 <!-- End here -->
@@ -34,3 +35,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urvashi16&show_icons=true&locale=en" alt="urvashi16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urvashi16&" alt="urvashi16" /></p>
+
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+Profile...;Would+love+to+connect!!🖤&center=true&size=20">
+  </a>
+</h1>
