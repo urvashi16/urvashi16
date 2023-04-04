@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Front-end development**
 
 - 📫 How to reach me **- urvashiindu09@gmail.com**
-- 🌐 View my Portfolio - https://urvashi16.github.io/ 
+- 🌐 View my Portfolio **- https://urvashi16.github.io/**
 
 - ⚡ Fun fact **- I don't speak much, but once I get comfortable with you, I speak a lot  :P**
 
