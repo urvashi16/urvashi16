@@ -1,6 +1,12 @@
 <h1 align="center"> Hello there  <img src="./assets/wave.gif" width="30px"> , I am </h1> 
+<!-- Cool Giphy Start here -->
+<img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
+<!-- End here -->
 <p align="center"><img  src="./assets/name.png" width="450px"></p>
+
+
 <h3 align="center">A passionate learner from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashi16&label=Profile%20views&color=0e75b6&style=flat" alt="urvashi16" /> </p>
 
