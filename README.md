@@ -9,14 +9,15 @@
 
 
 <h3 align="center">A passionate learner from India</h3>
-<!-- Cool Giphy Start here -->
-<img align="right" width="150px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
-<!-- End here -->
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urvashi16&label=Profile%20views&color=0e75b6&style=flat" alt="urvashi16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urvashi16" alt="urvashi16" /></a> </p>
+<!-- Cool Giphy Start here -->
+<img align="right" width="120px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
+<!-- End here -->
 
 
 - 🌱 I’m currently learning **Front-end development**
