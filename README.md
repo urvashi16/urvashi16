@@ -1,9 +1,15 @@
 <h1 align="center"> Hello there  <img src="./assets/wave.gif" width="30px"> , I am </h1> 
 
+
+<!-- <p align="center"><img  src="./assets/name.png" width="450px"></p> -->
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Urvashi+Indu&center=true&width=925&size=37">
+  </a>
+</h1>
 <!-- Cool Giphy Start here -->
 <img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
 <!-- End here -->
-<p align="center"><img  src="./assets/name.png" width="450px"></p>
 
 
 <h3 align="center">A passionate learner from India</h3>
