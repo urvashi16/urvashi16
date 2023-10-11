@@ -21,7 +21,7 @@
 
 
 
-- 🌱 I’m currently learning **Web development and Data Analytics**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **- urvashiindu09@gmail.com**
 - 🌐 View my Portfolio **- https://urvashi16.github.io/**
