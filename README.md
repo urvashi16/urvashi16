@@ -31,10 +31,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/urvashi-indu-a364791b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urvashi-indu-a364791b6" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/urvashiindu09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="urvashiindu09" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/urvashiindu09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="urvashiindu09" height="30" width="40" /></a> -->
 <a href="https://twitter.com/UrvashiIndu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="urvashiindu09" height="30" width="40" /></a>
 <a href="https://medium.com/@urvashiindu09" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" alt="urvashiindu09" height="30" width="40" /></a>
-<a href="https://www.instagram.com/uurvashii_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="urvashiindu09" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/uurvashii_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="urvashiindu09" height="30" width="40" /></a> -->
   
 
 
